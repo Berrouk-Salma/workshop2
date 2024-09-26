@@ -1,0 +1,1 @@
+ scanf("%lf %lf %lf", &a, &b, &c);
